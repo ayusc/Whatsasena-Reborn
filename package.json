@@ -1,7 +1,7 @@
 {
   "name": "Whatsasena-Reborn",
   "version": "0.1.5",
-  "description": "A bot for WhatsApp automation",
+  "description": "A userbot for WhatsApp automation",
   "main": "index.js",
   "scripts": {
     "debug": "node --inspect index.js",
